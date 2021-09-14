@@ -1,16 +1,16 @@
-### Hi there 👋
+<h4 align =center>👋 Hi there I'm Serhii Lukianchuk </h4>
 
-<!--
-**LuckySerj/LuckySerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#128526 I'm junior front-end developer. I'm still studying in Dan IT Education
+#129299.
 
-Here are some ideas to get you started:
+| 👩🏻‍🏫 Skills                   |
+| --------------------------- |
+| HTML, CSS, SCSS             |
+| JavaScript, jQuery, ajax    |
+| Gulp, Git                   |
+| Adaptive layout (flex/grid) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open for new opportunities #128579
+
+My <a href="linkedin.com/in/sergey-lukianchuk-9643b515b"> Linkedin<a>
+📫 Write me by 📧 <a href="mailto:lukianchuk.s@gmail.com"> Mail<a> or 💬 [ Telegram](https://t.me/lucky_serj)
