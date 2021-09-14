@@ -1,4 +1,4 @@
-<h4 align =center>👋 Hi there I'm Serhii Lukianchuk </h4>
+<h4 >👋 Hi there I'm Serhii Lukianchuk </h4>
 
 😎 I'm Junior Front-End Developer. I'm still studying in Dan IT Education
 🤓.
