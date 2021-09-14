@@ -3,7 +3,7 @@
 😎 I'm junior front-end developer. I'm still studying in Dan IT Education
 🤓.
 
-| 👩🏻‍🏫 Skills                   |
+| 👨‍💻 Skills                   |
 | --------------------------- |
 | HTML, CSS, SCSS             |
 | JavaScript, jQuery, ajax    |
