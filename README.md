@@ -9,6 +9,7 @@
 | JavaScript, jQuery, ajax    |
 | Gulp, Git                   |
 | Adaptive layout (flex/grid) |
+| React, Redux, React-routing |
 
 Open for new opportunities 🙃
 
