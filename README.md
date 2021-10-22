@@ -16,3 +16,5 @@ Open for new opportunities 🙃
 <p> My <a href="linkedin.com/in/sergey-lukianchuk-9643b515b"> Linkedin<a></p>
 
 📫 Write me by 📧 <a href="mailto:lukianchuk.s@gmail.com"> Mail<a> or 💬 [ Telegram](https://t.me/lucky_serj)
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=LuckySerj alt=LuckySerj/> </p>
