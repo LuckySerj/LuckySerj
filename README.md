@@ -1,7 +1,6 @@
 <h4 >👋 Hi there I'm Serhii Lukianchuk </h4>
 
-😎 I'm Junior Front-End Developer. I'm still studying in Dan IT Education
-🤓.
+😎 I'm Junior Front-End Developer. 
 
 | 👨‍💻 Skills                   |
 | --------------------------- |
@@ -11,7 +10,7 @@
 | Adaptive layout (flex/grid) |
 | React, Redux, React-routing |
 
-Open for new opportunities 🙃
+
 
 <p> My <a href="linkedin.com/in/sergey-lukianchuk-9643b515b"> Linkedin<a></p>
 
