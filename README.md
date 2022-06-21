@@ -1,6 +1,6 @@
 <h4 >👋 Hi there I'm Serhii Lukianchuk </h4>
 
-😎 I'm Junior Front-End Developer. 
+😎 I'm Front-End Developer. 
 
 | 👨‍💻 Skills                   |
 | --------------------------- |
